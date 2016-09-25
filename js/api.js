@@ -12,7 +12,7 @@ window.onePage = {};
 			that.$c = {
 				window: $( window ),
 				body: $( 'body' ),
-				site_url: 'http://modemlooper.me',
+				site_url: 'https://modemlooper.me',
 				data: [],
 			};
 		}
